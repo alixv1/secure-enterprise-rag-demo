@@ -2,7 +2,7 @@
 **Principal AI Systems Architect | Large Scale RAG & Security**
 
 📍 Orry La Ville, France | 📧 n.brunon@gmail.com 
-🔗 [LinkedIn](https://www.linkedin.com/in/nicolasbrunon/) | 🔗 [GitHub](https://github.com/alixv1)
+🔗 [LinkedIn](https://www.linkedin.com/in/nicolasbrunon/) | 🔗 [GitHub Secure Enterprise RAG Architecture](https://github.com/alixv1) 
 
 ---
 
@@ -56,9 +56,7 @@
 
 - **Problem:** Preventing data leakage in LLM applications where users have different access rights.
 - **Solution:** Implemented a pipeline ensuring **identity propagation** from the user prompt to the vector database retrieval.
-
 - **Architecture:** User → Entra ID → Retrieval → Authorization → LLM
-
 - **Tech:** Python, Vector DB, OAuth2/OIDC, Azure AI.
 
 ---
