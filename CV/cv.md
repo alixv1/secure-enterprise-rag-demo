@@ -53,10 +53,13 @@
 
 ## Secure Identity-Aware RAG Framework
 *Architected a reference implementation for secure enterprise-grade RAG systems.*
+
 - **Problem:** Preventing data leakage in LLM applications where users have different access rights.
 - **Solution:** Implemented a pipeline ensuring **identity propagation** from the user prompt to the vector database retrieval.
+
+- **Architecture:** User → Entra ID → Retrieval → Authorization → LLM
+
 - **Tech:** Python, Vector DB, OAuth2/OIDC, Azure AI.
-- [GitHub Link]
 
 ---
 
