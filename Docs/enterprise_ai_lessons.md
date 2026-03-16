@@ -91,7 +91,8 @@ Documents from web sources and internal repositories are automatically ingested.
 **Authorization enforcement**
 Before documents reach the context builder, the authorization layer validates user permissions against multiple identity sources — SharePoint, Blob Storage, SQL databases, and Microsoft Graph groups. Only authorized documents are returned to the LLM.
 
-
+**System architecture**
+The complete architecture is visualized in [Architecture/AzureArchitecture.svg](../Architecture/AzureArchitecture.svg), which shows the integration of data sources, indexing, retrieval, and authorization layers.
 
 ---
 

@@ -63,5 +63,5 @@
 
 # Education & Certifications
 
-- **Master’s Degree in Engineering** École Supérieure d’Ingénieurs de Marseille (now **Centrale Marseille**), 2003.
+- **Master’s Degree in Engineering** École Supérieure d’Ingénieurs de Marseille (now **Centrale Méditeranée**), 2003.
 - **Professional Development:** Azure AI Associate, Azure Infrastructure, ITIL v3.
