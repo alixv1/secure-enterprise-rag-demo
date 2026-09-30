@@ -1,1 +1,1 @@
-pandoc cv.md -o cv.pdf --pdf-engine=xelatex -V geometry:top=1.5cm -V geometry:bottom=1.5cm -V geometry:left=3cm -V geometry:right=3cm
+pandoc cv_Nicolas_Brunon.md -o CV_Nicolas_Brunon.pdf --pdf-engine=xelatex -V geometry:top=1.5cm -V geometry:bottom=1.5cm -V geometry:left=3cm -V geometry:right=3cm
